@@ -1,5 +1,5 @@
 # OR-Operation-Research
-Ivestigación operativa - operation research
+Investigación operativa - operation research
 
   1. Linear modeling
   2. Grapical Solution
